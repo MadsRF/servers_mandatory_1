@@ -1,5 +1,4 @@
 from bottle import run, post, request
-import requests
 import csv
 import io
 
